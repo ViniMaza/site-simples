@@ -4,4 +4,5 @@
 
 Aqui será apresentado meu primeiro site simples.
 
-HTML puro.
+HTML
+CSS
