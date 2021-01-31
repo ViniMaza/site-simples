@@ -6,3 +6,5 @@ Aqui será apresentado meu primeiro site simples.
 
 HTML
 CSS
+
+JAVASCRIPT
